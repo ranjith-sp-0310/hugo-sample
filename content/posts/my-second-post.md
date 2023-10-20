@@ -1,7 +1,7 @@
 +++
 title = 'Science'
 date = 2023-10-19T16:38:44+05:30
-draft = true
+draft = false
 +++
 
 ## Introduction
