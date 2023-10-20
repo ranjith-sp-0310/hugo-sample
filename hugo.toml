@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
-title = 'Test Site'
+title = 'Ranjith's Blog'
 theme = 'mainroad' 
  
  
