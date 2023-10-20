@@ -10,3 +10,6 @@
 [submodule "themes/mainroad"]
 	path = themes/mainroad
 	url = https://github.com/vimux/mainroad.git
+[submodule "themes/hugo-Paper-Mod"]
+	path = themes/hugo-Paper-Mod
+	url = https://github.com/adityatelange/hugo-PaperMod.git

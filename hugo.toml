@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Ranjith Blog'
-theme = 'mainroad' 
+theme = 'hugo-Paper-Mod' 
  
  
