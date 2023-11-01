@@ -1,6 +1,10 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Ranjith Blog'
-theme = 'mainroad' 
+title = 'Plot Corner'
+theme = 'paper' 
  
- 
+ [params]
+
+  avatar = 'https://th.bing.com/th/id/OIP.g9JQBsgn1JtJ4WirA1--IQHaHa?w=200&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7'                 # gravatar email or image url
+  name = 'Ranjith SP'
+  bio = 'Just an Ordinary Person'
