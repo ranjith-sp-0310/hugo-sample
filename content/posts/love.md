@@ -1,7 +1,7 @@
 +++
 title = 'The Science of Falling in Love: What Happens to Your Brain and Body'
 date = 2023-11-01T22:34:18+05:30
-draft = false
+draft = true
 +++
 
 Love, that indescribable feeling that has inspired poets, artists, and dreamers throughout the ages, is a complex and fascinating phenomenon. But what exactly happens to our brains and bodies when we fall in love? Is there a science behind this magical experience? In this blog post, we'll explore the scientific reasons behind falling in love and the remarkable changes that occur within us.
