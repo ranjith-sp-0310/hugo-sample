@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Plot Corner'
+title = 'RSP Blog'
 theme = 'paper' 
  
  [params]
